@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/testpageee">
+    <file alias="qmldir">E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/qmldir</file>
+  </qresource>
+</RCC>
+

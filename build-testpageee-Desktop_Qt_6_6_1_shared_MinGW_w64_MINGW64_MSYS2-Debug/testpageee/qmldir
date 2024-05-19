@@ -1,0 +1,5 @@
+module testpageee
+typeinfo apptestpageee.qmltypes
+prefer :/testpageee/
+Main 1.0 Main.qml
+

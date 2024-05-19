@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/testpageee/">
+    <file alias="Main.qml">E:/GitHub/project/testpageee/Main.qml</file>
+  </qresource>
+</RCC>
+

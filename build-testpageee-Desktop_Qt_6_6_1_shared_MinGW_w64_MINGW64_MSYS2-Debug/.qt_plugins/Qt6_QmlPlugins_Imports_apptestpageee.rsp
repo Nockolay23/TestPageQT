@@ -1,0 +1,14 @@
+-rootPath
+E:/GitHub/project/testpageee
+-cmake-output
+-output-file
+E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apptestpageee.cmake
+-importPath
+E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee
+-importPath
+E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug
+-importPath
+C:/msys64/mingw64/share/qt6/qml
+-qrcFiles
+E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/.rcc/qmake_testpageee.qrc
+E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/.rcc/apptestpageee_raw_qml_0.qrc
