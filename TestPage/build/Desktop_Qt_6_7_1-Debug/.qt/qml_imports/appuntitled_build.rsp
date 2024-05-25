@@ -1,0 +1,14 @@
+-rootPath
+/home/nick/untitled
+-cmake-output
+-output-file
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/.qt/qml_imports/appuntitled_build.cmake
+-importPath
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/untitled
+-importPath
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug
+-importPath
+/home/nick/Qt/6.7.1/gcc_64/./qml
+-qrcFiles
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_untitled.qrc
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appuntitled_raw_qml_0.qrc

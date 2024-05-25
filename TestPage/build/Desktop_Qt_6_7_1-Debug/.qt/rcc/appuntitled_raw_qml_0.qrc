@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/untitled/">
+    <file alias="Main.qml">/home/nick/untitled/Main.qml</file>
+    <file alias="ColorTestPage.qml">/home/nick/untitled/ColorTestPage.qml</file>
+  </qresource>
+</RCC>
+

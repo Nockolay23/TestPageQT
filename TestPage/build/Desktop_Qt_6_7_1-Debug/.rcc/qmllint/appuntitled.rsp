@@ -1,0 +1,11 @@
+--bare
+-I
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug
+-I
+/home/nick/Qt/6.7.1/gcc_64/./qml
+--resource
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_untitled.qrc
+--resource
+/home/nick/untitled/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appuntitled_raw_qml_0.qrc
+/home/nick/untitled/Main.qml
+/home/nick/untitled/ColorTestPage.qml

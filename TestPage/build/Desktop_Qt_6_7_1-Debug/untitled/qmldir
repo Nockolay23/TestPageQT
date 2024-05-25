@@ -1,0 +1,6 @@
+module untitled
+typeinfo appuntitled.qmltypes
+prefer :/untitled/
+Main 1.0 Main.qml
+ColorTestPage 1.0 ColorTestPage.qml
+
