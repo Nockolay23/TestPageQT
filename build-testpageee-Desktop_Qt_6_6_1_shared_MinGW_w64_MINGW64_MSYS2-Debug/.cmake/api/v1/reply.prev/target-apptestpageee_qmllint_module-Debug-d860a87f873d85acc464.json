@@ -1,14 +1,14 @@
 {
-	"backtrace" : 4,
+	"backtrace" : 5,
 	"backtraceGraph" : 
 	{
 		"commands" : 
 		[
-			"add_library",
+			"add_custom_target",
+			"_qt_internal_target_enable_qmllint",
 			"qt6_target_qml_sources",
 			"qt6_add_qml_module",
-			"qt_add_qml_module",
-			"target_sources"
+			"qt_add_qml_module"
 		],
 		"files" : 
 		[
@@ -21,43 +21,49 @@
 				"file" : 1
 			},
 			{
-				"command" : 3,
+				"command" : 4,
 				"file" : 1,
 				"line" : 15,
 				"parent" : 0
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 0,
 				"line" : 716,
 				"parent" : 1
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
 				"line" : 633,
 				"parent" : 2
 			},
 			{
-				"command" : 0,
+				"command" : 1,
 				"file" : 0,
-				"line" : 2323,
+				"line" : 2125,
 				"parent" : 3
 			},
 			{
-				"command" : 4,
+				"command" : 0,
 				"file" : 0,
-				"line" : 2326,
-				"parent" : 3
+				"line" : 882,
+				"parent" : 4
 			}
 		]
 	},
+	"dependencies" : 
+	[
+		{
+			"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df"
+		}
+	],
 	"folder" : 
 	{
-		"name" : "QtInternalTargets"
+		"name" : "QmlLinter"
 	},
-	"id" : "apptestpageee_tooling::@6890427a1f51a3e7e1df",
-	"name" : "apptestpageee_tooling",
+	"id" : "apptestpageee_qmllint_module::@6890427a1f51a3e7e1df",
+	"name" : "apptestpageee_qmllint_module",
 	"paths" : 
 	{
 		"build" : ".",
@@ -85,15 +91,15 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/Main.qml",
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/apptestpageee_qmllint_module",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/Main.qml.rule",
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/apptestpageee_qmllint_module.rule",
 			"sourceGroupIndex" : 1
 		}
 	],
-	"type" : "INTERFACE_LIBRARY"
+	"type" : "UTILITY"
 }

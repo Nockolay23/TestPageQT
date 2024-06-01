@@ -16,6 +16,12 @@ qt_add_qml_module(apptestpageee
     URI testpageee
     VERSION 1.0
     QML_FILES Main.qml
+    QML_FILES LOGO.qml
+    QML_FILES
+    RESOURCES
+    assets/images/logo.jpg
+    assets/icons/logo.ico
+
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

@@ -1,6 +1,9 @@
 <RCC>
   <qresource prefix="/testpageee/">
     <file alias="Main.qml">E:/GitHub/project/testpageee/Main.qml</file>
+    <file alias="LOGO.qml">E:/GitHub/project/testpageee/LOGO.qml</file>
+    <file alias="assets/images/logo.jpg">E:/GitHub/project/testpageee/assets/images/logo.jpg</file>
+    <file alias="assets/icons/logo.ico">E:/GitHub/project/testpageee/assets/icons/logo.ico</file>
   </qresource>
 </RCC>
 

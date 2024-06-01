@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d77338f089238df57b29.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testpageee",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ad6c27069232398d8c0a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-846c7c9b7495cfa23e21.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3c6eff2c396ffb953a4b.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8935e51e119b911e1266.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee-Debug-620af5721edb1684bb2a.json",
+					"name" : "apptestpageee",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_autogen-Debug-95521598ca365895f721.json",
+					"name" : "apptestpageee_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_autogen_timestamp_deps-Debug-57ee40af2690ddfc4b38.json",
+					"name" : "apptestpageee_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_qmlimportscan-Debug-b176721e7e4eb21481bc.json",
+					"name" : "apptestpageee_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_qmllint-Debug-44c6e8c59733ba0f24dd.json",
+					"name" : "apptestpageee_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_qmllint_json-Debug-3ea4233f4b9447758414.json",
+					"name" : "apptestpageee_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_qmllint_module-Debug-d860a87f873d85acc464.json",
+					"name" : "apptestpageee_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_qmltyperegistration-Debug-310c5b6ad1fbb40aa596.json",
+					"name" : "apptestpageee_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptestpageee_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptestpageee_tooling-Debug-e200fac823acb096a74f.json",
+					"name" : "apptestpageee_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+		"source" : "E:/GitHub/project/testpageee"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

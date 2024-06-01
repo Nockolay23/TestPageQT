@@ -1,0 +1,147 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/msys64/mingw64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 716,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 633,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2323,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2326,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "apptestpageee_tooling::@6890427a1f51a3e7e1df",
+	"name" : "apptestpageee_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/Main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/LOGO.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/assets/images/logo.jpg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/assets/icons/logo.ico",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/Main.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/LOGO.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/assets/images/logo.jpg.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "E:/GitHub/project/build-testpageee-Desktop_Qt_6_6_1_shared_MinGW_w64_MINGW64_MSYS2-Debug/testpageee/assets/icons/logo.ico.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

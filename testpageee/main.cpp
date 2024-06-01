@@ -1,10 +1,11 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-
+#include <QCoreApplication>
+#include <QIcon>
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
-
+    app.setWindowIcon(QIcon(":/testpageee/assets/icons/logo.ico"));
     QQmlApplicationEngine engine;
     const QUrl url(u"qrc:/testpageee/Main.qml"_qs);
     QObject::connect(
